@@ -1,8 +1,5 @@
-#Program: Sorting an array in non-decreasing order
+#Program: Sorting an array in non-decreasing order in Assembly language
 #Author: Yves Semana Gisubizo
-#Date: 11/05/2021
-#CPSC275
-#Assignment 3
 
 .LC0:
     .string "%d"               #for scanning array elements
